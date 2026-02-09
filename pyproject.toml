@@ -1,0 +1,19 @@
+[project]
+name = "muenchener-strassen"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "altair<5",
+    "folium>=0.20.0",
+    "geopandas>=1.1.2",
+    "ipykernel>=7.1.0",
+    "matplotlib>=3.10.8",
+    "pandas<3.0.0",
+    "plotly>=6.5.2",
+    "shapely>=2.1.2",
+    "streamlit>=1.53.1",
+    "streamlit-extras>=0.7.8",
+    "streamlit-folium>=0.26.1",
+]
